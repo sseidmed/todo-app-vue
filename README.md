@@ -1,5 +1,7 @@
 # To-do Vue app by Brad Traversy  
-#### This tutorial does not walk through the Update part of the CRUD operations, so I implemented my own
+#### This tutorial does not walk through the Update part of the CRUD operations, so I implemented my own  
+
+![alt text](https://github.com/sseidmed/todo-app-vue/blob/master/todo-vue.png?raw=true)
 
 ## Project setup
 ```

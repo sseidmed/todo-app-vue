@@ -1,4 +1,5 @@
-# vue-crash-2021
+# To-do Vue app by Brad Traversy  
+#### This tutorial does not walk through the Update part of the CRUD operations, so I implemented my own
 
 ## Project setup
 ```
